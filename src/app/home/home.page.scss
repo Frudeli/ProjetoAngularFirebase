@@ -1,0 +1,70 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+
+}
+
+.conteudo {
+    border: 1px solid black;
+    // width: 750px;
+    
+   
+}
+
+.curriculo {
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.perfil-foto {
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    display: block; 
+    border: 2px solid black;
+    
+}
+
+.titulo-nome {
+
+    font-size: 3rem;
+    padding-left: 30px;
+    
+    
+}
+
+.titulo-objetivo {
+    padding-left: 30px;
+    
+}
+
+.curtidas {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 40px;
+    
+}
+
+.texto {
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    font-weight: bold;
+    color: rgb(233, 14, 50);
+   
+}
+
+.postagem {
+    padding-top: 30px;
+   
+}
+
+h3 {
+    padding-top: 10px;
+    
+    
+}
+
+
